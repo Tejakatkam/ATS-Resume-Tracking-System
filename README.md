@@ -18,7 +18,7 @@ The **ATS Resume Tracking System** helps users analyze their resumes against spe
 ## 🔧 Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/Tejakatkam/ats-resume-tracker.git
+   git clone https://github.com/Tejakatkam/ATS-Resume-Tracking-System.git
    cd ats-resume-tracker
 
 
